@@ -10,5 +10,5 @@
 You can click the Preview link to take a look at your changes.
 --->
 ## Old dog new tricks!
-Data Analyst Portfolio
-https://jasonmuteham.github.io/Portfolio/
+Data Analyst Portfolio: https://jasonmuteham.github.io/Portfolio/
+Mapping & GIS Portfolio:
